@@ -1,0 +1,3 @@
+[
+	{ "keys": ["super+shift+e"], "command": "echo_eval" }
+]
