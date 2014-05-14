@@ -13,6 +13,8 @@ Evaluates the python code and replaces it with the echoed result just like `<?ph
 **Usage :**
 
 Select a piece of python code and press `ctrl+shift+e`, the code will be replaced with echoed result.
+The plugin can evaluate native ST python: 2.x for ST2, 3.x for ST3.
+If an exception occured during evaluation, it will be printed into a ST console.
 
 **Examples :**
 
