@@ -25,7 +25,7 @@ for x in [1, 3, 5]:
     echo(x)
 ```
     
-will replace it with "246".
+will replace it with "135".
 
 
 Evaluating
@@ -38,7 +38,7 @@ for x in [1, 3, 5]:
 will replace it with:
 
 ```
-result[1] = 2*1
-result[2] = 2*2
-result[3] = 2*3
+result[1] = 2*2
+result[2] = 2*4
+result[3] = 2*6
 ```
