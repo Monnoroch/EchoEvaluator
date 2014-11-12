@@ -39,6 +39,6 @@ will replace it with:
 
 ```
 result[1] = 2*2
-result[2] = 2*4
-result[3] = 2*6
+result[3] = 2*4
+result[5] = 2*6
 ```
